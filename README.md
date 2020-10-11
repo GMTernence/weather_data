@@ -4,9 +4,9 @@ execute sql statement to create database tables
 
 # step 2
 Anaconda installed
-create a virtual environment for this project
+create a virtual environment for this project  
     ```  
-    conda create --name weather python=3.6  
+    conda create --name weather python=3.6   
     ```
   install requirements  
     ```
