@@ -1,5 +1,5 @@
 # step 1
-MySQL installed
+MySQL installed  
 execute sql statement to create database tables
 
 # step 2
