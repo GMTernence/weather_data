@@ -1,9 +1,9 @@
 # step 1
 MySQL installed  
-execute sql statement to create database tables
+execute sql statement to create database and tables
 
 # step 2
-Anaconda installed
+Anaconda installed  
 create a virtual environment for this project  
 ```  
   conda create --name weather python=3.6  
@@ -17,7 +17,7 @@ install requirements
   pip install requirements.txt
 ```
 # step 3 
-run this project  
+run this project   
 First, get the data  
 ```
   python main.py  
