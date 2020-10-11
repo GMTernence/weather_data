@@ -8,7 +8,11 @@ create a virtual environment for this project
     ```  
     conda create --name weather python=3.6   
     ```
-  install requirements  
+    then activate it  
+    ```
+    conda activate weather
+    ```
+    install requirements  
     ```
     pip install requirements.txt  
     ```
