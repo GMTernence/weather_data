@@ -5,17 +5,17 @@ execute sql statement to create database tables
 # step 2
 Anaconda installed
 create a virtual environment for this project  
-    ```  
-      conda create --name weather python=3.6  
-    ```
+```  
+  conda create --name weather python=3.6  
+```
 then activate it  
-    ```
-      conda activate weather  
-    ```
+```
+  conda activate weather  
+```
 install requirements  
-    ```
-      pip install requirements.txt
-    ```
+```
+  pip install requirements.txt
+```
 # step 3 
 run this project  
 First, get the data  
