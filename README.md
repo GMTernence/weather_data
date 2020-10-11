@@ -1,6 +1,6 @@
 # step 1
 MySQL installed  
-execute sql statement to create database tables
+execute sql statement to create database and tables
 
 # step 2
 Anaconda installed
